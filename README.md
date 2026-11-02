@@ -42,6 +42,18 @@ Build commands:
     cmake -S . -B build
     cmake --build build --config Release
 
+## Support the project
+
+If you enjoy Guitar Tune Pro X and would like to support its continued development, you can make a donation:
+
+- **Cryptocurrency:** USDT
+- **Network:** TRON (TRC20)
+- **Wallet address:** `TBUeb52YrGx1fjmJMhVCZnnYBup3nyYKhf`
+
+**Important:** Send USDT only via the TRON (TRC20) network. Do not send assets using other networks or cryptocurrencies; they may be permanently lost.
+
+Thank you for supporting independent development!
+
 ## License
 
 The original project code is licensed under GNU AGPL v3.
