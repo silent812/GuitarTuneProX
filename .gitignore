@@ -1,0 +1,9 @@
+﻿build/
+.vs/
+.git/
+*.vst3/
+*.zip
+*.bak
+*.user
+.DS_Store
+Thumbs.db
